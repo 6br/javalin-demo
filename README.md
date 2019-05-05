@@ -1,0 +1,5 @@
+# javalin-demo
+
+```
+$ ./gradlew run
+```
